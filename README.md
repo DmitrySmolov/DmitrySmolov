@@ -1,8 +1,8 @@
 # Hello world 👋, my name is Dmitry!
 
-I'm a passionate Python developer from Russia, intrigued by how programming mirrors the complexity of our lives. I'm dedicated to mastering backend development and contributing to open-source projects.
+![Funny developper pic](https://github.com/DmitrySmolov/pics_and_stuff/blob/main/DALL%C2%B7E%202023-12-28%2014.09.13%20-%20A%20cartoon%20image%20of%20a%20bald,%20bearded%20developer%20sitting%20at%20a%20desk%20with%20intense%20focus,%20typing%20away%20on%20a%20keyboard,%20surrounded%20by%20floating%20code%20snippets%20and.png?raw=true)
 
-![Profile views](https://gpvc.arturio.dev/DmitrySmolov)
+I'm a passionate Python developer from Russia, intrigued by how programming mirrors the complexity of our lives. I'm dedicated to mastering backend development and contributing to open-source projects.
 
 - 🌱 I’m currently learning **Python, Backend Development, HTML, SQL**
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/DmitrySmolov?tab=repositories)
